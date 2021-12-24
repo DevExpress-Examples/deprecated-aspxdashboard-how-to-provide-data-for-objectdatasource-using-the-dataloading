@@ -8,12 +8,8 @@ Namespace WebDesigner_DataLoading
 		Public Property Quantity() As Integer
 
 		Public Shared Function CreateData() As List(Of SalesPersonData)
-		
 			Dim data As New List(Of SalesPersonData)()
-			Dim salesPersons() As String = {"Andrew Fuller", "Michael Suyama",
-                                            "Robert King", "Nancy Davolio",
-                                            "Margaret Peacock", "Laura Callahan",
-                                            "Steven Buchanan", "Janet Leverling"}
+			Dim salesPersons() As String = { "Andrew Fuller", "Michael Suyama", "Robert King", "Nancy Davolio", "Margaret Peacock", "Laura Callahan", "Steven Buchanan", "Janet Leverling" }
 			Dim rnd = New Random()
 			For i As Integer = 0 To 99
 				Dim record As New SalesPersonData()
