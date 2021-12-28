@@ -8,8 +8,6 @@
 
 * [Default.aspx](./CS/WebDesigner_DataLoading/Default.aspx) (VB: [Default.aspx](./VB/WebDesigner_DataLoading/Default.aspx))
 * [Default.aspx.cs](./CS/WebDesigner_DataLoading/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebDesigner_DataLoading/Default.aspx.vb))
-* [Global.asax](./CS/WebDesigner_DataLoading/Global.asax) (VB: [Global.asax](./VB/WebDesigner_DataLoading/Global.asax))
-* [Global.asax.cs](./CS/WebDesigner_DataLoading/Global.asax.cs) (VB: [Global.asax.vb](./VB/WebDesigner_DataLoading/Global.asax.vb))
 * [SalesPersonData.cs](./CS/WebDesigner_DataLoading/SalesPersonData.cs) (VB: [SalesPersonData.vb](./VB/WebDesigner_DataLoading/SalesPersonData.vb))
 <!-- default file list end -->
 # Dashboard for Web Forms - How to provide data for ObjectDataSource using the DataLoading event
